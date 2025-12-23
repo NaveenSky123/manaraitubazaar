@@ -30,7 +30,7 @@ export function Header({ onAddressClick, onCartClick }: HeaderProps) {
               Mana Raitu Bazaar
             </h1>
             <p className="text-xs animate-color-cycle" style={{ animationDelay: '1s' }}>
-              Morthad Branch | మొర్తాడ్ బ్రాంచ్
+              Morthad Branch | మోర్తాడ్ బ్రాంచ్
             </p>
           </div>
         </div>
