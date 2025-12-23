@@ -68,6 +68,23 @@ export function SplashScreen({ onComplete }: SplashScreenProps) {
             Loading Freshness… 🌿
           </p>
         </div>
+
+      {/* Developer Credit */}
+<div className="mt-8 flex flex-col items-center gap-2 animate-fade-in" style={{ animationDelay: '1s' }}>
+  <div className="w-16 h-16 rounded-full overflow-hidden border-2 border-primary/30 shadow-md">
+    <img 
+      src="/naveen.jpg" 
+      alt="Algot Naveen" 
+      className="w-full h-full object-cover"
+    />
+  </div>
+  <p className="text-xs text-foreground/60 font-medium">
+    Designed & Developed by
+  </p>
+  <p className="text-sm text-foreground/80 font-semibold">
+    Algot Naveen, Morthad
+  </p>
+</div>
       </div>
     </div>
   );
