@@ -26,7 +26,7 @@ export function WelcomeBanner() {
             Welcome to Mana Raitu Bazaar!
           </h2>
           <p className="text-sm text-primary-foreground/90 font-medium mb-1">
-            Morthad Branch | మొర్తాడ్ బ్రాంచ్
+            Morthad Branch | మోర్తాడ్ బ్రాంచ్
           </p>
           
           <p className="text-sm text-primary-foreground/90 leading-relaxed mb-4">
