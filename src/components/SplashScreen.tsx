@@ -51,7 +51,7 @@ export function SplashScreen({ onComplete }: SplashScreenProps) {
 
         {/* Tagline */}
         <p className="text-base text-foreground/80 font-medium italic animate-fade-in" style={{ animationDelay: '0.6s' }}>
-          "Raitula Nundi – Mee Intiki"
+          "Fresh From Farmers to Families - రైతుల నుండి మీ ఇంటికి"
         </p>
         <p className="text-sm text-foreground/70 mt-1 animate-fade-in" style={{ animationDelay: '0.7s' }}>
           From Farmers – To Your Home
